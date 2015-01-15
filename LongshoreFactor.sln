@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.30723.0
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongshoreFactor", "LongshoreFactor\LongshoreFactor.csproj", "{48A1CC52-F3E6-43AE-94DD-FAA0B0C34A4E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongshoreFactorTests", "LongshoreFactorTests\LongshoreFactorTests.csproj", "{7CE530EF-4996-4C9B-8AC1-9005BEB30D06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongshoreFactorSpecFlowTests", "LongshoreFactorSpecFlowTests\LongshoreFactorSpecFlowTests.csproj", "{F05FE9C7-3953-47C8-B295-B7BC8C0775AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{7CE530EF-4996-4C9B-8AC1-9005BEB30D06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CE530EF-4996-4C9B-8AC1-9005BEB30D06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CE530EF-4996-4C9B-8AC1-9005BEB30D06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F05FE9C7-3953-47C8-B295-B7BC8C0775AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F05FE9C7-3953-47C8-B295-B7BC8C0775AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F05FE9C7-3953-47C8-B295-B7BC8C0775AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F05FE9C7-3953-47C8-B295-B7BC8C0775AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
